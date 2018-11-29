@@ -2,17 +2,20 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-	A curated list of products and peripherals to make your residence awesome.
+> A curated list of products and peripherals to make your residence awesome.
 
 ## Contents
 
 - [Lighting](#lighting)
+- [Security & Surveillance](#security-surveillance)
 
 ## Lighting
 
 - [In-lite](https://in-lite.com)
 - [Philips Hue](https://www2.meethue.com)
 - [Philips Hue Outdoor Lighting](https://www2.meethue.com/en-us/smart-outdoor-lighting)
+
+## Security & Surveillance
 
 ## License
 
