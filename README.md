@@ -7,7 +7,7 @@
 ## Contents
 
 - [Lighting](#lighting)
-- [Security & Surveillance](#security-surveillance)
+- [Surveillance](#surveillance)
 
 ## Lighting
 
@@ -15,7 +15,10 @@
 - [Philips Hue](https://www2.meethue.com)
 - [Philips Hue Outdoor Lighting](https://www2.meethue.com/en-us/smart-outdoor-lighting)
 
-## Security & Surveillance
+## Surveillance
+
+- [Ring.com](https://ring.com)
+- [Nest Home Security Systems](https://nest.com/home-security-systems)
 
 ## License
 
